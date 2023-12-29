@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171728511831",
+    "firebase_url": "https://smart-cold-storage-cbae1-default-rtdb.firebaseio.com",
+    "project_id": "smart-cold-storage-cbae1",
+    "storage_bucket": "smart-cold-storage-cbae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171728511831:android:ef6557e82de837a383d412",
+        "android_client_info": {
+          "package_name": "com.example.smartcoldstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171728511831-7h5uco5ndh452r2tmuisuqndc2ul3a4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSrbadvyf9lMCCHvpiJ3HD9ROXCtN6LBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171728511831-7h5uco5ndh452r2tmuisuqndc2ul3a4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

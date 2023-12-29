@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#E6FFFFFF</color>
+    <color name="green">#2CBC04</color>
+    <color name="red">#FF2525</color>
+    <color name="yellow">#3C1111</color>
+    <color name="thumb1">#56CC0C</color>
+    <color name="thumb2">#86F67E</color>
+    <color name="track1">#636363</color>
+    <color name="track2">#ACA8A8</color>
+    <color name="status_bar">#71BC42</color>
+    <color name="background">#6FE14F</color>
+</resources>

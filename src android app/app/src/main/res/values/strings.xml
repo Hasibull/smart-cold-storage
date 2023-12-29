@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Cold storage</string>
+    <string name="title_activity_temperature_trend">temperature_trend</string>
+</resources>
